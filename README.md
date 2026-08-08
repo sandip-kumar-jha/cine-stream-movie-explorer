@@ -3,7 +3,7 @@
 Cine-Stream is a modern, responsive Single Page Application (SPA) built with React for discovering movies, searching movies, saving favorites, and getting AI-powered movie recommendations based on mood.
 
 ## 🚀 Live Demo 
-
+https://heroic-toffee-c40853.netlify.app/
 ## 📂 GitHub Repository
 
 https://github.com/sandip-kumar-jha/cine-stream-movie-explorer
